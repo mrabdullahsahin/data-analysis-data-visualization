@@ -1,4 +1,8 @@
-# Data Analysis Data Visualization
+![](https://img.shields.io/github/license/mrabdullahsahin/data-analysis-data-visualization.svg)
+
+> Last Updated: 01.01.2019
+
+# Data Analysis & Data Visualization
 
 * [Market Basket Analysis for Beginner Data Science](https://github.com/mrabdullahsahin/data-analysis-data-visualization/blob/master/market%20basket%20analysis.ipynb)
 * [NumPy Tutorial for Beginner](https://github.com/mrabdullahsahin/data-analysis-data-visualization/blob/master/NumPy%20Tutorial%20For%20Beginner.ipynb)
